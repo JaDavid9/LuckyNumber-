@@ -4,6 +4,6 @@ When the player enters a number, they receive feedback: if they guess correctly,
 
 After installation, the project is started by opening the command prompt and following these steps:
 
-cd LuckyNumber
-code . // (opens VS Code)
-python LuckyNumber.py
+1. cd LuckyNumber
+2. code . // (opens VS Code)
+3. python LuckyNumber.py
